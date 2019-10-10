@@ -32,7 +32,8 @@
   },
   "homepage": "https://github.com/alexbrillant/react-native-deck-swiper#readme",
   "dependencies": {
-    "prop-types": "15.5.10"
+    "prop-types": "15.5.10",
+    "lodash.isequal": "^4.5.0"
   },
   "peerDependencies": {
     "react": "^16.8.3",
@@ -53,7 +54,6 @@
     "eslint-plugin-standard": "^3.0.1",
     "jest": "18.1.0",
     "jest-cli": "^18.1.0",
-    "lodash.isequal": "^4.5.0",
     "prettier-eslint": "^6.4.2",
     "prettier-eslint-cli": "^4.1.1",
     "react-test-renderer": "15.4.2"
